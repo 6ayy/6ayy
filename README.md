@@ -1,6 +1,16 @@
 # 💻 My Known Languages/Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![Node.JS](https://img.shields.io/badge/Node.JS-417e38?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=for-the-badge&logo=javascript&logoColor=000)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=babyfayy333&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 🏗️ My Current Projects:
+- Farmhub Softworks, A plugin for ROBLOX® Jailbreak to increase your profits in multiple ways
+- TempyExternal, A utility client for ROBLOX® for debugging the local player, with more features.
+
+# 📊 My GitHub Statistics:
+[![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/babyfayy333)
+
+![babyfayy333-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)
