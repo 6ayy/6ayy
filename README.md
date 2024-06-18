@@ -8,7 +8,7 @@
 
 # 🏗️ My Current Projects:
 - Farmhub Softworks, A plugin for ROBLOX® Jailbreak to increase your profits in multiple ways
-- TempyExternal, A utility client for ROBLOX® for debugging the local player, with more features.
+- Luarmor Bot, A discord bot for creators to manage their Lua script users via discord bot.
 
 # 📊 My GitHub Statistics:
 [![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/babyfayy333)
