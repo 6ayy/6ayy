@@ -7,10 +7,10 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 # 🏗️ My Current Projects:
-- Farmhub Softworks, A plugin for ROBLOX® Jailbreak to increase your profits in multiple ways
+- Unchained, A plugin for ROBLOX® Jailbreak to increase your profits in multiple ways
+- Lunara, An upcoming plugin for ROBLOX®. Coming soon™️
 - Luarmor Bot, A discord bot for creators to manage their Lua script users via discord bot.
 
 # 📊 My GitHub Statistics:
-[![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/babyfayy333)
-
+![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)] 
 ![babyfayy333-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)
