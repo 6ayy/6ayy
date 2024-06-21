@@ -12,5 +12,5 @@
 - Luarmor Bot, A discord bot for creators to manage their Lua script users via discord bot.
 
 # 📊 My GitHub Statistics:
-![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)] 
-![babyfayy333-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&show_icons=true&theme=dark#gh-dark-mode-only)
+![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true#gh-dark-mode-only)
+![babyfayy333-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&show_icons=true#gh-dark-mode-only)
