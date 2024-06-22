@@ -13,5 +13,5 @@
 
 # 📊 My GitHub Statistics:
 ![babyfayy333-Stats-Dark](https://github-readme-stats.vercel.app/api?username=babyfayy333&show_icons=true#gh-dark-mode-only)
-[![](https://visitcount.itsvg.in/api?id=babyfayy333&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ![babyfayy333-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfayy333&show_icons=true#gh-dark-mode-only)
+[![](https://visitcount.itsvg.in/api?id=babyfayy333&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
