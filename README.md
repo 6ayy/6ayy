@@ -7,6 +7,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-de4c36?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=white)
-
+---
+# 📊 My GitHub Statistics
+![fayys's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfayy333)
 ---
 [![](https://visitcount.itsvg.in/api?id=babyfayy333&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
