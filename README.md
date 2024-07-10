@@ -11,4 +11,5 @@
 # 📊 My GitHub Statistics
 ![fayys's GitHub stats](https://github-readme-stats.vercel.app/api?username=6ayy)
 ---
-[![](https://visitcount.itsvg.in/api?id=6ayy&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+https://visitcount.itsvg.in/api?id=6ayy&label=Profile%20Views&color=12&icon=3&pretty=true
+![Profile views](https://visitcount.itsvg.in/api?id=6ayy&label=Profile%20Views&color=12&icon=3&pretty=true)
